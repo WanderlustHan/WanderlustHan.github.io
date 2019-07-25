@@ -278,7 +278,8 @@ list-style-position: outside;
 .jpaper{background-color:#002062;color:#fcfcfc;;padding:1px 4px;font-size:smaller}
 
 .cpaper{color:red;padding:1px 4px;font-weight: bold;}
-.team{color:red;padding:1px 4px;font-weight: bold;}
+.team{color:#FF0000;padding:1px 4px;font-weight: bold;}
+.cteam{color:#FF0000;padding:1px 4px;font-weight: bold;}
 
 .abbpaper{color:#00cc66;padding:1px 4px;font-size:smaller;font-weight: bold;}
 
