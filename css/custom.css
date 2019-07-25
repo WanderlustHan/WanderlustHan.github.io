@@ -277,7 +277,7 @@ list-style-position: outside;
 .file_link{background-color:#DEB887;color:#fcfcfc;padding:1px 4px;font-size:smaller}  
 .jpaper{background-color:#002062;color:#fcfcfc;;padding:1px 4px;font-size:smaller}
 
-.cpaper{background-color:#0E6251;color:#fcfcfc;;padding:1px 4px;font-size:smaller}
+.cpaper{color:red;padding:1px 4px;font-weight: bold;}
 
 .abbpaper{color:#00cc66;padding:1px 4px;font-size:smaller;font-weight: bold;}
 
